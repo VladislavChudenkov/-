@@ -1,0 +1,19 @@
+C:\Users\98669\Documents\Крестики нолики\Крестики нолики\bin\Debug\net6.0-windows\Крестики нолики.exe
+C:\Users\98669\Documents\Крестики нолики\Крестики нолики\bin\Debug\net6.0-windows\Крестики нолики.deps.json
+C:\Users\98669\Documents\Крестики нолики\Крестики нолики\bin\Debug\net6.0-windows\Крестики нолики.runtimeconfig.json
+C:\Users\98669\Documents\Крестики нолики\Крестики нолики\bin\Debug\net6.0-windows\Крестики нолики.dll
+C:\Users\98669\Documents\Крестики нолики\Крестики нолики\bin\Debug\net6.0-windows\Крестики нолики.pdb
+C:\Users\98669\Documents\Крестики нолики\Крестики нолики\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\98669\Documents\Крестики нолики\Крестики нолики\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\98669\Documents\Крестики нолики\Крестики нолики\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\98669\Documents\Крестики нолики\Крестики нолики\obj\Debug\net6.0-windows\Крестики нолики_MarkupCompile.cache
+C:\Users\98669\Documents\Крестики нолики\Крестики нолики\obj\Debug\net6.0-windows\Крестики нолики.g.resources
+C:\Users\98669\Documents\Крестики нолики\Крестики нолики\obj\Debug\net6.0-windows\Крестики нолики.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\98669\Documents\Крестики нолики\Крестики нолики\obj\Debug\net6.0-windows\Крестики нолики.AssemblyInfoInputs.cache
+C:\Users\98669\Documents\Крестики нолики\Крестики нолики\obj\Debug\net6.0-windows\Крестики нолики.AssemblyInfo.cs
+C:\Users\98669\Documents\Крестики нолики\Крестики нолики\obj\Debug\net6.0-windows\Крестики нолики.csproj.CoreCompileInputs.cache
+C:\Users\98669\Documents\Крестики нолики\Крестики нолики\obj\Debug\net6.0-windows\Крестики нолики.dll
+C:\Users\98669\Documents\Крестики нолики\Крестики нолики\obj\Debug\net6.0-windows\refint\Крестики нолики.dll
+C:\Users\98669\Documents\Крестики нолики\Крестики нолики\obj\Debug\net6.0-windows\Крестики нолики.pdb
+C:\Users\98669\Documents\Крестики нолики\Крестики нолики\obj\Debug\net6.0-windows\Крестики нолики.genruntimeconfig.cache
+C:\Users\98669\Documents\Крестики нолики\Крестики нолики\obj\Debug\net6.0-windows\ref\Крестики нолики.dll
